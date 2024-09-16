@@ -1,2 +1,3 @@
-# Emotion Analysis using Images
--> Built a CV model for emotion analysis using the feature-rich fastai library.
+# Multimodal Emotion Recognition
+Modal 1 -> Visual
+Modal 2 -> Text
